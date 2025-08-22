@@ -5,7 +5,7 @@
   "main": "index.js",
 "scripts": {
   "test": "npx playwright test demo.spec.js --project=chromium --headed --workers=2",
-  "productTest": "npx playwright test pageObjTest.spec.js --project=chromium --workers=2 --headed"
+  "productTest": "npx playwright test pageObjTest.spec.js --project=chromium"
 },
   "keywords": [],
   "author": "",
