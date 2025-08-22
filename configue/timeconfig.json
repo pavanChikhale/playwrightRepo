@@ -1,0 +1,11 @@
+{
+  "timeConfig": {
+    "defaultTimeUnit": "seconds",
+    "timeUnits": {
+      "mini": 2000,
+      "max": 6000,
+      "low": 10000,
+      "medium": 20000
+    }
+  }
+}
